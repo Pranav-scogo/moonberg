@@ -5,7 +5,7 @@ const ValueProposition = () => {
     {
       icon: Shield,
       title: 'Enterprise capability, not complexity',
-      description: 'Give your IT teams a platform they\'ll actually love—one that handles all their service desk, asset tracking, and infrastructure management needs with built-in AI. Easy to implement and manage, without the complexity of traditional enterprise tools.'
+      description: 'Give your IT teams a platform they&apos;ll actually love&mdash;one that handles all their service desk, asset tracking, and infrastructure management needs with built-in AI. Easy to implement and manage, without the complexity of traditional enterprise tools.'
     },
     {
       icon: Zap,

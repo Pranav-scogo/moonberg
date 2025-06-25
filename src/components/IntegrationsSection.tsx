@@ -111,7 +111,7 @@ const IntegrationsSection = () => {
                 Join 73,000+ companies uncomplicating their IT service & support
               </h3>
               <blockquote className="text-xl text-gray-600 italic mb-6">
-                "Iceberg has helped us cut IT costs by 60% annually while improving service quality and speed."
+                &quot;Iceberg has helped us cut IT costs by 60% annually while improving service quality and speed.&quot;
               </blockquote>
               <div className="flex items-center space-x-4">
                 <div className="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center">

@@ -1,6 +1,7 @@
 'use client'
 
 import { motion, AnimatePresence } from 'framer-motion'
+import Image from 'next/image'
 import {
     Shield,
     Eye,
@@ -143,10 +144,12 @@ export default function SecurityFeatures() {
                     </div>
 
                     <div className="relative my-auto h-full w-full overflow-hidden rounded-lg md:w-1/2">
-                        <img
+                        <Image
                             className="ml-auto w-full rounded-3xl border border-gray-200 md:h-full md:max-h-[28rem] md:w-fit"
-                            src={currentImage}
+                            src={currentImage || ''}
                             alt="Feature illustration"
+                            width={500}
+                            height={350}
                         />
                     </div>
                 </div>

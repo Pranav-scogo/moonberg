@@ -75,7 +75,7 @@ const SocialProofSection = () => {
               AI + ITSM: Making IT work smarter, not harder
             </h3>
             <p className="text-gray-600 mb-6">
-              Discover how AI is helping IT teams do more than just 'keep the lights on'—it's powering experiences that help drive strategic value.
+              Discover how AI is helping IT teams do more than just &apos;keep the lights on&apos;&mdash;it&apos;s powering experiences that help drive strategic value.
             </p>
             <button className="text-blue-600 hover:text-blue-800 font-medium">
               Your comprehensive guide to making IT work smarter, not harder

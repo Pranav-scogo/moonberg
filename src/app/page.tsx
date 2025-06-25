@@ -1,7 +1,6 @@
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import StickyNavigation from "@/components/StickyNavigation";
-import ValueProposition from "@/components/ValueProposition";
 import AISection from "@/components/AISection";
 import CapabilitiesSection from "@/components/CapabilitiesSection";
 import IntegrationsSection from "@/components/IntegrationsSection";

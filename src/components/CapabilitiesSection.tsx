@@ -1,4 +1,4 @@
-import { Bot, Headphones, Package, Activity, Building, MessageCircle, ArrowRight, ExternalLink, Settings, Globe, Users, FileText, HandHeart, Shield } from 'lucide-react';
+import { Bot, ArrowRight, ExternalLink, Settings, Globe, FileText, HandHeart, Shield } from 'lucide-react';
 
 const CapabilitiesSection = () => {
   const capabilities = [

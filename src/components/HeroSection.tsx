@@ -1,5 +1,4 @@
-import Image from 'next/image';
-import { ArrowRight, Play, Clock, Users, TrendingUp, AlertTriangle } from 'lucide-react';
+import { ArrowRight, Play, TrendingUp, AlertTriangle } from 'lucide-react';
 
 const HeroSection = () => {
   return (
